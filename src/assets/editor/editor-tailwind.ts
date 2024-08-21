@@ -1,0 +1,1 @@
+export let editorStyle = "p-5 mx-5 outline-none min-h-[80vh] bg-gray-100 dark:bg-gray-800 dark:text-white"

@@ -1,0 +1,16 @@
+.is-active {
+    background-color: #262626;
+    color: white;
+}
+
+.toggle-btn {
+    padding: .5rem;
+    border-radius: 5px;
+}
+
+
+.toggle-btn:hover {
+    transition: 250ms;
+    background-color: #3e3d3d;
+    color: #f2f2f2;
+}
